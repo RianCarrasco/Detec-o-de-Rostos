@@ -22,6 +22,9 @@ O formato dos arquivos devem estar na seguinte forma:
 
 Base de dados:
 Imagens conhecidas-> Aqui é a pasta onde você deve colocar a foto da pessoa que você quer procurar, ex: Fernando.png, Ana.png.
+
 Imagens para analisar->Pasta com todas as imagens que seram analisadas
+
 Não encontrados-> Uma pasta para colocar as imagens que não deram metch
+
 Rostos detectados->A pasta de saida na qual tera de forma organizada todas as imagens separadas
