@@ -1,0 +1,13 @@
+Pré requisitos 
+
+# Atualize o pip primeiro
+python -m pip install --upgrade pip
+
+# Core: DeepFace e manipulação de arrays
+pip install deepface numpy
+
+# Machine Learning e Visão Computacional
+pip install tensorflow[and-cuda] scikit-learn
+
+# Detectores de face específicos usados no seu código
+pip install retinaface tf-keras
